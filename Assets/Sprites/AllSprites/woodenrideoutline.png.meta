@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      woodenrideoutline_0: 8199796659984673007
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

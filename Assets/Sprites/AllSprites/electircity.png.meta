@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      electircity_0: 1683539482252472979
+      electircity_1: 6602962081724109709
+      electircity_10: 1821872399778297523
+      electircity_11: -6164064541819725689
+      electircity_12: -901622505362975762
+      electircity_13: 5192281824942344276
+      electircity_14: 3639213921481008536
+      electircity_2: 8850890337408442986
+      electircity_3: -2137608059698972659
+      electircity_4: -6240099005489473430
+      electircity_5: -5215032402785955166
+      electircity_6: 6694339755809109148
+      electircity_7: -1314635812052011622
+      electircity_8: -4495587693612021330
+      electircity_9: 1728141382615603663
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

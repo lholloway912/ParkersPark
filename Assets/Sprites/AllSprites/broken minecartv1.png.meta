@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      broken minecartv1_0: 6927729883965833865
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

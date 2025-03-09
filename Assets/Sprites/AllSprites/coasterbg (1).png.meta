@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      coasterbg (1)_0: 4188106070302737193
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

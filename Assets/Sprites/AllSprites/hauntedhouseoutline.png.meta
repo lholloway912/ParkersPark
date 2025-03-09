@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hauntedhouseoutline_0: 3540433255414882683
+      hauntedhouseoutline_1: -8420670052383476995
+      hauntedhouseoutline_2: 4728332292759343090
+      hauntedhouseoutline_3: 4579545349142775928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

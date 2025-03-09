@@ -6,11 +6,32 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2bfde5dc09b900844a0bddb99d8a81b7
+  - enabled: 1
+    path: Assets/Scenes/MapMenu.unity
+    guid: 3a9e814defdcd274193dc390b459d3f4
+  - enabled: 1
     path: Assets/Scenes/WoodenCoaster.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: 2bfde5dc09b900844a0bddb99d8a81b7
+    path: Assets/Scenes/Carousel.unity
+    guid: 1fea8dc61b50a6345b4326496502a8e7
+  - enabled: 1
+    path: Assets/Scenes/MinecartLevel.unity
+    guid: f22cf99622801c743a5bf37269289700
+  - enabled: 1
+    path: Assets/Scenes/WireMinigame.unity
+    guid: 7728674452be9cb49a3a1ca416bb44b8
+  - enabled: 1
+    path: Assets/Scenes/MinecartBackRooms.unity
+    guid: 6758eaba22094da4a9ce47dcfe7aa106
+  - enabled: 1
+    path: Assets/Scenes/reflection.unity
+    guid: 019224b294855964aa1f10b4dcecb0e4
+  - enabled: 1
+    path: Assets/Scenes/DeathMenu.unity
+    guid: 3eaf63053ee01e649802e9f150093424
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

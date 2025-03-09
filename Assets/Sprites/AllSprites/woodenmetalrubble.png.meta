@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      woodenmetalrubble_0: 1371087256495915883
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

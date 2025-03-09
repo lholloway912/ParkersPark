@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      railroadtrack end_0: -5556092199021420247
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

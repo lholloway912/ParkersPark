@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      background haunted house (1)_0: 8642817044705118301
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

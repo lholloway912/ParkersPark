@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wireobsticle_0: -7371982933160429658
+      wireobsticle_1: 7261463182492273850
+      wireobsticle_2: -3930019505449102618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

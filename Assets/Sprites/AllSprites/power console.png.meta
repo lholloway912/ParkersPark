@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      power console_0: 875182581835616560
+      power console_1: 6849409872140450087
+      power console_2: -3701617990839304597
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

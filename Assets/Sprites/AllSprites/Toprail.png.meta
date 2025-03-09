@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Toprail_0: 6415991183132142497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

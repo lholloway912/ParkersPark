@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blue Wire_0: 3320474723189473654
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

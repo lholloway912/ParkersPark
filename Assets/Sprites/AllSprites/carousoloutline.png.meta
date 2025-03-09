@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      carousoloutline_0: -1552157200461443752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
